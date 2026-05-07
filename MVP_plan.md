@@ -8,7 +8,7 @@
 **Team Size:** 1–4 developers
 **Target Timeline:** 3–6 months for rough playable demo
 **Art Style:** Stylized-realistic hybrid (~60% realistic, ~40% stylized)
-**Perspective:** 3D top-down
+**Perspective:** 3D top-down 
 **Multiplayer:** Online co-op via Steam P2P (host-based)
 
 ---
@@ -42,9 +42,9 @@ EXTRACTION
 
 The RV is the central gameplay system. It is home base, transport, and the single most important asset the party owns.
 
-### MVP RV Systems (Placeholder — To Be Defined)
+### MVP RV Systems 
 
-The following need to be designed in detail post-MVP scoping. For MVP, the RV needs at minimum:
+For MVP, the RV needs at minimum:
 
 - A drivable vehicle with basic physics (acceleration, steering, braking)
 - A health/damage system (anything can damage the RV, including players)
@@ -307,7 +307,7 @@ Menu-based UI hub (not a physical walkable space).
 - 3D top-down driving and on-foot gameplay
 - Drivable RV with health, fuel, storage, and entry/exit
 - 1 biome with procedural map generation and hand-crafted POI templates
-- 4 run types (Intro, Easy, Intermediate, Freedom Run)
+- 1 run type Intro
 - 3 POI types (house, convenience store, gas station)
 - 1 enemy type (skeletons) with wander + chase AI
 - 3 environmental hazards (acid pit, gas spill, trash pile)
@@ -330,6 +330,7 @@ Menu-based UI hub (not a physical walkable space).
 ### Out of Scope (Post-MVP)
 
 - Multiple biomes / regional settings
+- more types of runs
 - Multi-map successive runs
 - Component-based RV damage
 - RV extensions (roof, trailer, armor, canopy)
